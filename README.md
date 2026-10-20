@@ -1,6 +1,6 @@
 ## Flappy Bird Remake
 
-A 2D recreation of the classic Flappy Bird, built in Unity. The game features two pipe types: standard pipes and golden pipes with a dual-scoring mechanic. I created the gameplay logic and original pixel-art assets.
+A 2D remake of the classic Flappy Bird, built in Unity. I created the gameplay, game logic, and all original pixel-art assets myself. The game features standard and golden pipes, with a dual-scoring mechanic.
 
 ### Screenshots
 
