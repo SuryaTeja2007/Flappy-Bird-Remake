@@ -8,6 +8,6 @@ A 2D recreation of the classic Flappy Bird, built in Unity. The game features tw
 
 ### Gameplay Video
 
-[![Watch Flappy Bird gameplay](Assets/Sprites/FlappyBird-Thumbnail.png)](Assets/Sprites/FlappyBird-Gameplay.mp4)
+[![Watch Flappy Bird gameplay](Assets/Sprites/FlappyBird-Thumbnail.png)](https://youtu.be/yeBx-GNZv6U)
 
 *Click the preview image to watch the gameplay video.*
